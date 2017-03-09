@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BullsEye</string>
+    <string name="help">帮助</string>
+    <string name="replay">replay</string>
+    <string name="show">把进度条拖到：100</string>
+    <string name="num">分数：</string>
+    <string name="num2">局数：1</string>
+    <string name="play">搞定</string>
+    <string name="show_tv">把进度条拖到：100</string>
+</resources>
